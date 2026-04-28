@@ -22,7 +22,7 @@ Manual grocery management is tedious. You either over-order and waste food, or f
 
 This project heavily leverages the Model Context Protocol (MCP) to allow our AI reasoning engine to take real-world actions through Swiggy.
 
-*   **AI Orchestration:** Anthropic Claude / OpenAI GPT-4
+*   **AI Orchestration:** Google Gemini 1.5 Flash (Free Tier) / Llama 3 (via Groq API or locally via Ollama)
 *   **Integration Standard:** Model Context Protocol (MCP)
 *   **Backend:** Node.js / Express
 *   **Frontend / Dashboard:** Next.js (React), Tailwind CSS
